@@ -4,7 +4,7 @@
   "description": "Full Stack [MEAN] Application: Bartenda- Discovering and sharing great (and terrible) 21+ drinks",
   "main": "server.js",
   "dependencies": {
-    "angular": "^1.6.7",
+    "angular": "^1.8.0",
     "bcrypt": "^1.0.3",
     "bsync": "^0.0.7",
     "dotenv": "^4.0.0",
